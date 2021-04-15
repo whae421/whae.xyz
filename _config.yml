@@ -3,7 +3,7 @@ title:       whae.xyz
 email:       whae421@snu.ac.kr
 author:      Jiho Kang
 description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-baseurl:     "/whae.xyz"
+baseurl:     "/whae.xyz/posts.html"
 url:         "https://whae421.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
