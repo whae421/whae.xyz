@@ -1,8 +1,8 @@
 # Site settings
-title:       whae.xyz
+title:       whaeworld
 email:       whae421@snu.ac.kr
 author:      Jiho Kang
-description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+description: ""
 baseurl:     ""
 url:         "https://whae.xyz"
 date_format: "%b %-d, %Y"
@@ -25,10 +25,10 @@ post_preview_image: false
 disqus_shortname:
 
 # Social icons
-github_username: saikiransripada
-twitter_username: wp_user
-linkedin_username: saikiransripada
-dev_username: dev_user
+github_username: whae421
+twitter_username: 
+linkedin_username: 
+dev_username: 
 
 # Post sharing icons
 show_sharing_icons: true
@@ -37,11 +37,11 @@ share_facebook: true
 share_twitter: true
 share_googleplus: true
 share_linkedin: true
-share_digg: true
-share_tumblr: true
+share_digg: false
+share_tumblr: false
 share_reddit: true
-share_stumbleupon: true
-share_hackernews: true
+share_stumbleupon: false
+share_hackernews: false
 
 text:
   pagination:
