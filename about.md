@@ -1,20 +1,12 @@
 ---
 layout: page
-title: About Mixyll
+title: About
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was originally crafted by [John Otander](http://johnotander.com) as [Pixyll](https://github.com/johno/pixyll) and modified by [Sai Kiran Sripada](https://www.saikiransripada.com/).
+My name is Jiho Kang.
+I'm a student studying business administration at Seoul National Univ., South Korea.
+This is my personal website powered by [Jekyll](https://jekyllrb.com/), hosted on Github Pages, using [Mixyll](https://github.com/saikiransripada/mixyll) for the theme.
 
-Checkout the [Github repository](https://github.com/saikiransripada/mixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [Pixyll](https://github.com/johno/pixyll)
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+This Jekyll theme was completed by [Sai Kiran Sripada](https://www.saikiransripada.com/), for more info: [Github repository](https://github.com/saikiransripada/mixyll)
