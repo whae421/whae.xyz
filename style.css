@@ -137,6 +137,7 @@ body>.middle>.links>a:hover {
     }
     .topnav a {
         font-size: 17px;
+        padding: 9px 9px;
     }
     .middle>.links>a {
         font-size: 13px;
