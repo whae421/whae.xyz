@@ -110,16 +110,7 @@ body>.middle>.links>a:hover {
     font-style: italic;    
 }
 
-.design {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-}
-
-.about {
+.about, .coding, .design {
     margin: 0;
     position: absolute;
     top: 50%;
@@ -128,6 +119,11 @@ body>.middle>.links>a:hover {
     transform: translate(-50%, -50%);
     color: #ededed;
 }
+
+.coding, .design {
+    text-decoration: none;
+}
+
 
 @media only screen and (max-width: 421px) {
     .title>h1 {
