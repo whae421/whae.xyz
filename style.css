@@ -120,7 +120,7 @@ body>.middle>.links>a:hover {
     color: #ededed;
 }
 
-.coding, .design {
+.about>a, .design>a, .coding>a {
     text-decoration: none;
 }
 
