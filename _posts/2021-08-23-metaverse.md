@@ -4,6 +4,7 @@ title: "The Metaverse"
 date: 2021-08-23
 ---
 
+The Metaverse
 
 > Epic Games already let you buy Air Jordan 1s as part of a skin for your “Fortnite” avatar — and you could conceivably wear them to a battle royale in the morning before showing them off at an Ariana Grande concert in the evening. (…) Okay, now say you could show up to work in your Web-gotten costume, and head off after to a group fitness class. Say you could even give your clothes away to a friend on Twitter, or trade them for an artistic opus in non-fungible token form. You would carry your data, your possessions and yourself with you from place to place and platform to platform — sometimes in 3-D, sometimes in today’s 2-D, sometimes with the aid of virtual reality helmets or augmented-reality glasses, and sometimes with only our eyes. 
 
@@ -20,15 +21,15 @@ date: 2021-08-23
 
 
 ### ASF의 Metaverse Roadmap (MVR) 
-•	미국 미래가속화연구재단 (ASF) 주최의 컨퍼런스에서 저명한 IT전문가와 게임제작자, 미래학자들의 토론 내용을 정리한 2007년 보고서로 메타버스에 대한 논의에서 상당한 지위를 갖는 보고서
+*	미국 미래가속화연구재단 (ASF) 주최의 컨퍼런스에서 저명한 IT전문가와 게임제작자, 미래학자들의 토론 내용을 정리한 2007년 보고서로 메타버스에 대한 논의에서 상당한 지위를 갖는 보고서
 **1) 가상세계로 강화된 물리적 현실과 2) 물리적으로 영속하는 가상세계의 수렴**
-•	현실세계에 물리적으로 존재하는 우리들의 활동영역이 가상공간으로 확장 + 가상세계가 정말 ‘가상(상상)의 세계’에 머무르지 않고 현실과 연결되며 물리적으로 영속한다는 의미
-•	즉 메타버스를 그냥 ‘가상세계’로 생각하기보단 가상과 현실 세계의 연결, 통합으로 인식해야
-•	‘메타버스’라는 하나의 통일된 독립체가 고유명사로서 존재하는 것은 아님
-•	가상화 기술, 3D툴과 물체들이 우리 주위의 모든 환경에 임베딩되며 우리 생활의 중요한 부분을 차지하게 되는 과정이, 여러 개의 상호-강화적인 경로와 방법을 통해 이루어지고 있음.
-•	현재 웹의 모든 컨텐츠가 메타버스로 이동하지는 않고, 상황에 따라 2D와 3D 각자의 장점을 활용하며 혼용하게 될 것
-•	이렇게 미래의 메타버스가 어떤 형태로 정착될지는 불분명하여 가능한 시나리오를 구분
-•	![Metaverse Types](/images/meta1.png)
+*	현실세계에 물리적으로 존재하는 우리들의 활동영역이 가상공간으로 확장 + 가상세계가 정말 ‘가상(상상)의 세계’에 머무르지 않고 현실과 연결되며 물리적으로 영속한다는 의미
+*	즉 메타버스를 그냥 ‘가상세계’로 생각하기보단 가상과 현실 세계의 연결, 통합으로 인식해야
+*	‘메타버스’라는 하나의 통일된 독립체가 고유명사로서 존재하는 것은 아님
+*	가상화 기술, 3D툴과 물체들이 우리 주위의 모든 환경에 임베딩되며 우리 생활의 중요한 부분을 차지하게 되는 과정이, 여러 개의 상호-강화적인 경로와 방법을 통해 이루어지고 있음.
+*	현재 웹의 모든 컨텐츠가 메타버스로 이동하지는 않고, 상황에 따라 2D와 3D 각자의 장점을 활용하며 혼용하게 될 것
+*	이렇게 미래의 메타버스가 어떤 형태로 정착될지는 불분명하여 가능한 시나리오를 구분
+*	![Metaverse Types](/images/meta1.png)
 - Augmentation은 기술이 우리가 인식하는 기존의 현실세계에 하나의 층을 더하는 형태
 - Simulation은 현실세계를 모델링하여 새로운 평행세계를 만드는 형태
 - Intimate은 이용자의 정체성과 개인으로서의 행동에 중심. 아바타/디지털 프로필 등으로 작용
@@ -93,7 +94,7 @@ In a few years the Quest 2 ought to be reminiscent of the mobile brick-phone fro
 •	2019년 LoL 스킨만으로 $1.5billion 매출
 •	하츠네 미쿠, 버츄얼 유튜버, Gorillaz, 에스파 등 예전부터 가상공간의 컨텐츠는 자연적으로도 발생
 •	메타버스에 특화된 기술, 경험, 소비자 태도들이 하루가 다르게 생겨나고 있으므로 메타버스로 가는 길에 있다고 보인다. 
-•	확실히 가상공간 활용하는 효용이 큰 영역(오피스, 패션, 게임, 엔지니어링)  연결되면 메타버스
+•	확실히 가상공간 활용하는 효용이 큰 영역(오피스, 패션, 게임, 엔지니어링) --> 연결되면 메타버스
 •	인터넷에서/으로 자라난 세대가 이 공간을 어떻게 활용할지 무궁무진한 가능성
 
 
