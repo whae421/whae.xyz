@@ -28,8 +28,8 @@ The Metaverse
 *	‘메타버스’라는 하나의 통일된 독립체가 고유명사로서 존재하는 것은 아님
 *	가상화 기술, 3D툴과 물체들이 우리 주위의 모든 환경에 임베딩되며 우리 생활의 중요한 부분을 차지하게 되는 과정이, 여러 개의 상호-강화적인 경로와 방법을 통해 이루어지고 있음.
 *	현재 웹의 모든 컨텐츠가 메타버스로 이동하지는 않고, 상황에 따라 2D와 3D 각자의 장점을 활용하며 혼용하게 될 것
-*	이렇게 미래의 메타버스가 어떤 형태로 정착될지는 불분명하여 가능한 시나리오를 구분
-*	![Metaverse Types](/images/meta1.png)
+*	이렇게 미래의 메타버스가 어떤 형태로 정착될지는 불분명하여 가능한 시나리오를 구분  
+![Metaverse Types](/images/meta1.png)
 - Augmentation은 기술이 우리가 인식하는 기존의 현실세계에 하나의 층을 더하는 형태
 - Simulation은 현실세계를 모델링하여 새로운 평행세계를 만드는 형태
 - Intimate은 이용자의 정체성과 개인으로서의 행동에 중심. 아바타/디지털 프로필 등으로 작용
@@ -45,8 +45,8 @@ The Metaverse
 *	Open Metaverse : 여러 메타버스 플랫폼 사이를 하나의 아바타와 NFT, 가상화폐 그대로 가지고 왕래
 *	미들맨을 없애고 프로토콜 자체를 강화한 블록체인 기반의 Web 3.0
 - 1980~2000년대 초기까지의 Web 1.0은 탈중앙화가 돼있었음. was built on top of a series of open protocols that anyone could build directly on top of, (웹사이트를 위한 HTTP, 이메일을 위한 SMTP, 메시징을 위한 SMS, 챗을 위한 IRC, 파일 전송을 위한 FTP 등)
-- Web 2.0에서는 이런 빈 자리를 채우며 가치를 창출하는 state aggregator들이 등장하여 기존 오픈 프로토콜들의 자리를 대체(http-> 구글 크롬, smtp-> 지메일, sms-> 페북 메신저, irc-> 슬랙, ftp-> 드롭박스…)
-*	![Metaverse D2A Value Chain](/images/meta2.png)
+- Web 2.0에서는 이런 빈 자리를 채우며 가치를 창출하는 state aggregator들이 등장하여 기존 오픈 프로토콜들의 자리를 대체(http-> 구글 크롬, smtp-> 지메일, sms-> 페북 메신저, irc-> 슬랙, ftp-> 드롭박스…)  
+![Metaverse D2A Value Chain](/images/meta2.png)
 *	Experimentation and growth increase dramatically when options are maximized and systems are interoperable and built within competitive markets where creators are sovereign over their own data and creations.
 The simplest example of decentralization is the Domain Name System (DNS), which maps individual IP addresses to names, saving you from having to enter a number each time you want to go somewhere online. 
 *	Virtual World != Virtual Platform. 플랫폼들이 성장해야 함. 콜오브듀티, 젤다의 전설, 동물의 숲 등은 virtual world이지만 아래와 같은 점에서 플랫폼은 아님. 모바일 생태계에서의 앱이나 웹사이트에 해당하는 위치.
@@ -61,13 +61,13 @@ In a few years the Quest 2 ought to be reminiscent of the mobile brick-phone fro
 *	(The Metaverse) is about the inexorable dematerialization of physical space, distance, and objects
 *	게임에서 무엇이든 가능하듯, Formerly scarce experiences may become abundant. (한정된 좌석 티켓팅해 앉는 현실콘서트랑 달리 누구나 최고의 경험할 수 있는 메타버스 콘서트)
 *	Content marketplaces will become an alternative to application marketplaces
-*	Microsoft Mesh: 자사의 Hololens 등 착용하고 주로 AR을 활용하는 홀로그램 협업 프로그램
-*	![Microsoft Mesh](/images/mesh.png)
-*	Nvdia Omniverse: 다양한 프로그램과의 호환성을 기반으로 가상공간에서 협업, 시뮬레이션. BMW와의 협업에서 실제 공장에 대한 digital twin을 제작하여 차량 디자인부터 기계와 노동자들의 움직임까지 시뮬레이션하여 30% 이상 효율화했음
-*	![Nvidia Omniverse](/images/omniverse.png)
+*	Microsoft Mesh: 자사의 Hololens 등 착용하고 주로 AR을 활용하는 홀로그램 협업 프로그램  
+![Microsoft Mesh](/images/mesh.png)
+*	Nvdia Omniverse: 다양한 프로그램과의 호환성을 기반으로 가상공간에서 협업, 시뮬레이션. BMW와의 협업에서 실제 공장에 대한 digital twin을 제작하여 차량 디자인부터 기계와 노동자들의 움직임까지 시뮬레이션하여 30% 이상 효율화했음  
+![Nvidia Omniverse](/images/omniverse.png)
 *	Facebook Horizon Workplace: 페이스북이 준비중인 폭넓은 용도의 메타버스인 Horizon의 가상오피스 영역. 오큘러스를 착용하고 VR 세계 안에서 실제 자신의 컴퓨터 화면과 키보드를 볼 수 있다는 점
-“Sometimes you just have to get in the same room”
-*	![Horizon Workplace](/images/horizon.png)
+“Sometimes you just have to get in the same room”  
+![Horizon Workplace](/images/horizon.png)
 
 
 
@@ -115,9 +115,9 @@ In a few years the Quest 2 ought to be reminiscent of the mobile brick-phone fro
 *	제페토 가입해서 여기저기 돌아다니던 중 가상으로 아이돌 상황극하는 월드를 발견.
 *	나이 물어보니 실제 나이는 대부분 10대 초중반, 아바타로 포스트 하루에 하나 이상씩 올리는 등 하나의 SNS가 활발하게 형성되고 있었음
 *	자유롭게 이쁜 곳 다니거나 이쁜 것 먹고 입을 금전적, 시간적 여유가 없어 가상현실 이용하는듯
-*   메타버스에 대한 논의는 꽤나 오래 전부터 있어왔다. 메타버스라는 단어가 처음 쓰인 Snow Crash 이전에도 가상세계에 대한 상상은 항상 있었고 지금처럼 hype이 생겼다가도 다른 좀 더 가까운 미래의 주제로 관심이 옮겨가곤 했다는 것. ([2006년 WIRED 기사](https://www.wired.com/2006/04/collide/))
-기술의 발전이 아무리 빠르다 한들 많은 경우 인간의 상상력의 속도를 따라가지는 못한다는 점을 우리는 간과한다. 물론 메타버스가 반드시 올 수 밖에 없는 미래라 확신하는 사람들은 항상 열심히 연구개발하고 있긴 했다. (“A lot of the folks that were working on it before ... are still involved, it's just that we've been waiting for certain technological advancements,”)
-그 기술 발전이 상당부분 이루어진 상태에서(오큘러스 퀘스트2나 블록체인과 가상화폐, NFT, …) 코로나로 인해 우리는 비대면 사회에 반강제적으로 적응을 해야만 했고, 어쩌면 VR기기를 쓰고 가상공간에서 아바타들과 생산적인 협업이나 네트워킹을 하는 것에 대한 장벽이 낮아졌을 것도 같다. 네모나고 평평한 줌 비디오챗 화면에서 교수님이 수업하는 걸 10분만 듣고 있어도 지루해 죽는다. 조금 더 immersive하고 interactive한 메타버스에서 뭔갈 하면 조금은 더 집중할 수 있지 않을까.
-그럼 여기서 또 이런 질문을 할 수 있다. 코로나가 끝나도 그러고 싶겠는가. 바로 머릿속에 떠오르는 것만 적어봐도, MOOC 강의 진짜 노잼이던데 메타버스를 이용하면 더 활성화가 되고 지구 반대편과의 거리가 두 배는 짧아진 느낌이 들듯. 그게 아니더라도 내가 좋아하는 마인크래프트 같은 게임과 다른 가상공간들이 이어지는 걸 상상해보면 나는 좋을 것 같다는 생각이 든다.
-그러니까 다 좋고 반드시 올 미래라고도 생각이 드는데, 상술했지만 투자자 관점에서는 몰라도 소비자 관점에서는 아직은 메타버스는 시기상조가 아닐까. 네트워크나 컴퓨팅 파워를 포함한 기술적 장벽들이 해결되고, 오큘러스나 홀로렌즈같은 하드웨어들이 조금 더 작아지고 편해지고, 사람들도 가상공간에 조금씩 익숙해지면서 디지털 네이티브 세대들이 사회에 진출하기 시작하고 …
+*   메타버스에 대한 논의는 꽤나 오래 전부터 있어왔다. 메타버스라는 단어가 처음 쓰인 Snow Crash 이전에도 가상세계에 대한 상상은 항상 있었고 지금처럼 hype이 생겼다가도 다른 좀 더 가까운 미래의 주제로 관심이 옮겨가곤 했다는 것. ([2006년 WIRED 기사](https://www.wired.com/2006/04/collide/))  
+기술의 발전이 아무리 빠르다 한들 많은 경우 인간의 상상력의 속도를 따라가지는 못한다는 점을 우리는 간과한다. 물론 메타버스가 반드시 올 수 밖에 없는 미래라 확신하는 사람들은 항상 열심히 연구개발하고 있긴 했다. (“A lot of the folks that were working on it before ... are still involved, it's just that we've been waiting for certain technological advancements,”)  
+그 기술 발전이 상당부분 이루어진 상태에서(오큘러스 퀘스트2나 블록체인과 가상화폐, NFT, …) 코로나로 인해 우리는 비대면 사회에 반강제적으로 적응을 해야만 했고, 어쩌면 VR기기를 쓰고 가상공간에서 아바타들과 생산적인 협업이나 네트워킹을 하는 것에 대한 장벽이 낮아졌을 것도 같다. 네모나고 평평한 줌 비디오챗 화면에서 교수님이 수업하는 걸 10분만 듣고 있어도 지루해 죽는다. 조금 더 immersive하고 interactive한 메타버스에서 뭔갈 하면 조금은 더 집중할 수 있지 않을까.  
+그럼 여기서 또 이런 질문을 할 수 있다. 코로나가 끝나도 그러고 싶겠는가. 바로 머릿속에 떠오르는 것만 적어봐도, MOOC 강의 진짜 노잼이던데 메타버스를 이용하면 더 활성화가 되고 지구 반대편과의 거리가 두 배는 짧아진 느낌이 들듯. 그게 아니더라도 내가 좋아하는 마인크래프트 같은 게임과 다른 가상공간들이 이어지는 걸 상상해보면 나는 좋을 것 같다는 생각이 든다.  
+그러니까 다 좋고 반드시 올 미래라고도 생각이 드는데, 상술했지만 투자자 관점에서는 몰라도 소비자 관점에서는 아직은 메타버스는 시기상조가 아닐까. 네트워크나 컴퓨팅 파워를 포함한 기술적 장벽들이 해결되고, 오큘러스나 홀로렌즈같은 하드웨어들이 조금 더 작아지고 편해지고, 사람들도 가상공간에 조금씩 익숙해지면서 디지털 네이티브 세대들이 사회에 진출하기 시작하고 …  
 메타버스는 인터넷과 마찬가지로 어느 시점부터 딱 존재하는 것이 아니라, 이미 있는 기술적, 사회적 인프라 위에 많은 기업들이 하나씩 제품과 서비스를 얹어가며 만들어지는 생태계다. 하나의 제품이 아니라 생태계인만큼 사회에 더 광범위하게 깊숙이 영향을 미칠 것이고, 잘 설계해나가야 하겠다. Web 3.0과 정신을 같이하는 Open Metaverse로서 정립이 되고, 사이버 범죄나 페이크뉴스 등 인터넷 세상의 고질적인 문제들은 잘 대응해나가며 다음 세대의 기술혁명이 일어나기를 기대한다. +메타버스에 잘 투자해보자.
