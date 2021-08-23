@@ -62,9 +62,13 @@ In a few years the Quest 2 ought to be reminiscent of the mobile brick-phone fro
 *	게임에서 무엇이든 가능하듯, Formerly scarce experiences may become abundant. (한정된 좌석 티켓팅해 앉는 현실콘서트랑 달리 누구나 최고의 경험할 수 있는 메타버스 콘서트)
 *	Content marketplaces will become an alternative to application marketplaces
 *	Microsoft Mesh: 자사의 Hololens 등 착용하고 주로 AR을 활용하는 홀로그램 협업 프로그램
+*	![Microsoft Mesh](/images/mesh.png)
 *	Nvdia Omniverse: 다양한 프로그램과의 호환성을 기반으로 가상공간에서 협업, 시뮬레이션. BMW와의 협업에서 실제 공장에 대한 digital twin을 제작하여 차량 디자인부터 기계와 노동자들의 움직임까지 시뮬레이션하여 30% 이상 효율화했음
+*	![Nvidia Omniverse](/images/omniverse.png)
 *	Facebook Horizon Workplace: 페이스북이 준비중인 폭넓은 용도의 메타버스인 Horizon의 가상오피스 영역. 오큘러스를 착용하고 VR 세계 안에서 실제 자신의 컴퓨터 화면과 키보드를 볼 수 있다는 점
 “Sometimes you just have to get in the same room”
+*	![Horizon Workplace](/images/horizon.png)
+
 
 
 ### 메타버스 위의 비즈니스
@@ -72,7 +76,7 @@ In a few years the Quest 2 ought to be reminiscent of the mobile brick-phone fro
 *	수익모델이 게임 아이템 판매에서 마케팅 솔루션 제공, 이커머스, 콘서트 개최 등 점점 현실세계와 연계하는 쪽으로 진화 
 *	현실에 대한 Testbed로서의 가상공간 
 *	홍콩 국제공항은 Unity로 제작한 digital twin으로 자연재해, 비상대피 등 스트레스 테스트
-*	사람이 있는 곳엔 광고가 있다, 새로운 마케팅/이벤트/후원/브랜딩의 기회 
+*	사람이 있는 곳엔 광고가 있다, 새로운 마케팅/이벤트/후원/브랜딩의 기회
 *	![Metaverse Map](/images/meta3.png) 
 *   Experience: 우리와 실제로 직접 상호작용하는 창구: 게임, 소셜, 라이브 음악 등
 *	Discovery: 우리가 Experience들의 존재에 대해 알게 되는 경로
