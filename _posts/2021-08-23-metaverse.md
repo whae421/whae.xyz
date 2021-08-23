@@ -90,6 +90,7 @@ In a few years the Quest 2 ought to be reminiscent of the mobile brick-phone fro
 
 ### 메타버스 비관론
 *	코로나19로 반사이익 얻었을 뿐/ 이벤트성 소재일 뿐 대세가 될 수 없다는 지적
+*   "Despite the current hype cycle, the idea is still amorphous, and a fully functioning metaverse is probably years and billions of dollars away — if it happens at all. Big companies joining the discussion now may simply want to reassure investors that they won't miss out on what could be the next big thing, or that their investments in VR, which has yet to gain broad commercial appeal, will eventually pay off. And, especially in Facebook's case, playing up the long-term potential for the metaverse could be a useful way of distracting from growing scrutiny in the here and now." -CNN Business
 *	Roblox 유저 67%는 16세 이하 , 
 *	부자들은 오프라인에서 자신들의 공간을 넓혀가기 때문에 당신이 온라인에서 쓰는 시간이 많을수록 소득이 적다는 뜻이다 … 초등학생부터 메타버스로 들어가는 이유는 커피숍부터 시작해서 오프라인 공간을 소유할 수 없기 때문(유현준) 
 *	NFT시장에서 Beeple이 $3.5million을 벌어들이는 와중에 수만명의 아티스트들은 한 푼도 못 벌었다 
