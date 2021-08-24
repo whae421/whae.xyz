@@ -6,22 +6,19 @@ date: 2021-08-23
 
 The Metaverse
 
-> Epic Games already let you buy Air Jordan 1s as part of a skin for your “Fortnite” avatar — and you could conceivably wear them to a battle royale in the morning before showing them off at an Ariana Grande concert in the evening. (…) Okay, now say you could show up to work in your Web-gotten costume, and head off after to a group fitness class. Say you could even give your clothes away to a friend on Twitter, or trade them for an artistic opus in non-fungible token form. You would carry your data, your possessions and yourself with you from place to place and platform to platform — sometimes in 3-D, sometimes in today’s 2-D, sometimes with the aid of virtual reality helmets or augmented-reality glasses, and sometimes with only our eyes. [^3]  
+> Epic Games already let you buy Air Jordan 1s as part of a skin for your “Fortnite” avatar — and you could conceivably wear them to a battle royale in the morning before showing them off at an Ariana Grande concert in the evening. (…) Okay, now say you could show up to work in your Web-gotten costume, and head off after to a group fitness class. Say you could even give your clothes away to a friend on Twitter, or trade them for an artistic opus in non-fungible token form. You would carry your data, your possessions and yourself with you from place to place and platform to platform — sometimes in 3-D, sometimes in today’s 2-D, sometimes with the aid of virtual reality helmets or augmented-reality glasses, and sometimes with only our eyes. 
 
-전세계 메타버스 시장 규모는 2021년 307억 달러(약 34조1,077억 원)에서 2024년 약 2,969억 달러(약 329조 8,559억 원)까지 성장할 전망…[^4]
-[^3]: Molly Roberts, <The metaverse is the future of our reality. Mark Zuckerberg and its other evangelists are planning for it.>, <https://www.washingtonpost.com/opinions/2021/07/28/will-metaverse-connect-us-or-just-remind-us-how-far-apart-we-remain/>
-[^4]: 정준화, <메타버스(metaverse)의 현황과 향후 과제>, <<이슈와 논점>> 제 1858호, <국회입법조사처>
+
+전세계 메타버스 시장 규모는 2021년 307억 달러(약 34조1,077억 원)에서 2024년 약 2,969억 달러(약 329조 8,559억 원)까지 성장할 전망…
 
 
 ### 메타버스의 등장
-*	“가상과 현실이 상호작용하며 공진화하고 그 속에서 사회･경제･문화 활동이 이루어지면서 가치를 창출하는 세상”[^5] --> 여러 정의 중 하나
+*	“가상과 현실이 상호작용하며 공진화하고 그 속에서 사회･경제･문화 활동이 이루어지면서 가치를 창출하는 세상” --> 여러 정의 중 하나
 *	1992년 닐 스티븐슨의 소설 *Snow Crash*에서 처음 탄생한 단어
 *	대중적으로는 *Ready Player One* (2018), *Surrogates* (2009), *The Matrix* (1999) 등 영화에서 사람들이 메타버스라는 개념을 접함
-*	2000년대 초반 Google Earth, Second Life(린든랩) 등이 등장하며 ‘3D 웹’에 대한 관심[^6] 
+*	2000년대 초반 Google Earth, Second Life(린든랩) 등이 등장하며 ‘3D 웹’에 대한 관심 
 *	코로나19 팬데믹은 강제적으로 비대면 사회를 만들고 관련 기술의 적용시기를 앞당김
 *	Travis Scott(2000만), Ariana Grande의 아이코닉한 Fortnite 공연(최초는 2019 Marshmello), UNITY(U)와 Roblox(RBLX)의 상장 등으로 메타버스에 대한 세계적인 관심 증가
-[^5]: 이승환･한상열, <메타버스 비긴즈(BEGINS): 5대 이슈와 전망>, <<ISSUE REPORT>> IS-116, 소프트웨어정책연구소, 2021.
-[^6]: 한상열, <메타버스 플랫폼 현황과 전망>, <<FUTURE HORIZON>>, 2021, 19-24면.
 
 
 ### ASF의 Metaverse Roadmap (MVR) 
@@ -52,14 +49,12 @@ The Metaverse
 - Web 2.0에서는 이런 빈 자리를 채우며 가치를 창출하는 state aggregator들이 등장하여 기존 오픈 프로토콜들의 자리를 대체(http-> 구글 크롬, smtp-> 지메일, sms-> 페북 메신저, irc-> 슬랙, ftp-> 드롭박스…)  
 ![Metaverse D2A Value Chain](/images/meta2.png)
 *	옵션이 maximize되고 시스템이 interoperable하며 크레에이터가 본인의 데이터와 작품에 대해 확실한 컨트롤을 가지는 경쟁적인 마켓에서 새로운 실험과 성장이 급속도로 증가한다.  
-탈중앙화의 간단한 예시는 Domain Name System(DNS). 개별 IP에 이름을 붙여줘서 온라인 세상에서 매번 숫자를 입력해 원하는 곳으로 이동하는 수고를 덜어줌.[^2]
-[^2]: Jon Radoff, <The Metaverse Value-Chain>, <https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7>
+탈중앙화의 간단한 예시는 Domain Name System(DNS). 개별 IP에 이름을 붙여줘서 온라인 세상에서 매번 숫자를 입력해 원하는 곳으로 이동하는 수고를 덜어줌.
 *	Virtual World != Virtual Platform. 플랫폼들이 성장해야 함. 콜오브듀티, 젤다의 전설, 동물의 숲 등은 virtual world이지만 아래와 같은 점에서 플랫폼은 아님. 모바일 생태계에서의 앱이나 웹사이트에 해당하는 위치.
 *	“platform is when the economic value of everybody that uses it, exceeds the value of the company that creates it.” (Bill Gates)
 *	“something is a platform when the majority of content people spend time with is created by others.” (Tim Sweeney)
 *	Virtual platform 은 선순환구조를 창출함. 더 나은 기술과 툴로 더 나은 사용자경험을 제공, 더 많은 사용자의 유입과 ARPU, 플랫폼과 크리에이터들은 얻는 수익으로 더 나은 기술과 사용자경험에 투자 …
-*	메타버스와 관련된 주요 하드웨어로는 페이스북의 오큘러스 퀘스트. 초기 아이폰과 같은 속도로 기술과 매출이 빠르게 성장중(essentially a smartphone that’s been refactored into a VR device). 몇년 뒤면 스마트폰의 모든 기능+AR/VR이 가능한 스마트글래스 같은 기기의 출시가 될 수도.[^1]
-[^1]: Jon Radoff, <The Metaverse Value-Chain>, <https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7>
+*	메타버스와 관련된 주요 하드웨어로는 페이스북의 오큘러스 퀘스트. 초기 아이폰과 같은 속도로 기술과 매출이 빠르게 성장중(essentially a smartphone that’s been refactored into a VR device). 몇년 뒤면 스마트폰의 모든 기능+AR/VR이 가능한 스마트글래스 같은 기기의 출시가 될 수도.
 
 
 ### 메타버스의 사례와 활용
