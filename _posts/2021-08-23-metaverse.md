@@ -4,8 +4,7 @@ title: "The Metaverse"
 date: 2021-08-23
 ---
 
-The Metaverse
-A refined version of my memos taken while studying on the subject
+The Metaverse: A refined version of my memos taken while studying on the subject  
 References to be updated when I make some time to figure out how to insert footnotes in markdown
 
 > Epic Games already let you buy Air Jordan 1s as part of a skin for your “Fortnite” avatar — and you could conceivably wear them to a battle royale in the morning before showing them off at an Ariana Grande concert in the evening. (…) Okay, now say you could show up to work in your Web-gotten costume, and head off after to a group fitness class. Say you could even give your clothes away to a friend on Twitter, or trade them for an artistic opus in non-fungible token form. You would carry your data, your possessions and yourself with you from place to place and platform to platform — sometimes in 3-D, sometimes in today’s 2-D, sometimes with the aid of virtual reality helmets or augmented-reality glasses, and sometimes with only our eyes. 
