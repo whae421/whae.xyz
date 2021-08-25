@@ -126,17 +126,14 @@ body>.middle>.links>a:hover {
 
 
 @media only screen and (max-width: 421px) {
-    .title>h1 {
-        width: 200px
-    }
     .logo img {
         width: 85px
     }
     .title>h1 {
-        font-size: 40px
+        font-size: 36px
     }
     .title>h2 {
-        font-size: 15px;
+        font-size: 16px;
     }
     .topnav {
         top:33px
