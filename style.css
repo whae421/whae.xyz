@@ -110,8 +110,7 @@ body>.middle>.links>a:hover {
     text-align: center;
     font-size: 15px;
     font-family: 'Source Serif Pro', serif;
-    font-weight: 300;
-    font-style: italic;    
+    font-weight: 300;   
 }
 
 .about, .coding, .design {
