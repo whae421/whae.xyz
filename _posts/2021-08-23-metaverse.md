@@ -77,8 +77,8 @@ References to be updated when I make some time to figure out how to insert footn
 *	수익모델이 게임 아이템 판매에서 마케팅 솔루션 제공, 이커머스, 콘서트 개최 등 점점 현실세계와 연계하는 쪽으로 진화 
 *	현실에 대한 Testbed로서의 가상공간 
 *	홍콩 국제공항은 Unity로 제작한 digital twin으로 자연재해, 비상대피 등 스트레스 테스트
-*	사람이 있는 곳엔 광고가 있다, 새로운 마케팅/이벤트/후원/브랜딩의 기회
-*	![Metaverse Map](/images/meta3.png) 
+*	사람이 있는 곳엔 광고가 있다, 새로운 마케팅/이벤트/후원/브랜딩의 기회  
+![Metaverse Map](/images/meta3.png) 
 *   Experience: 우리와 실제로 직접 상호작용하는 창구: 게임, 소셜, 라이브 음악 등
 *	Discovery: 우리가 Experience들의 존재에 대해 알게 되는 경로
 *	The Creator Economy: 크리에이터들이 메타버스 위에서 새로운 것을 만들고 수익화하기에 필요한 모든 것: 디자인 툴, 애니메이션 시스템, 그래픽 툴, 수익화 기술 등
