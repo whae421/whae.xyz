@@ -66,7 +66,7 @@ References to be updated when I make some time to figure out how to insert footn
 *	Content marketplaces will become an alternative to application marketplaces
 *	Microsoft Mesh: 자사의 Hololens 등 착용하고 주로 AR을 활용하는 홀로그램 협업 프로그램  
 ![Microsoft Mesh](/images/mesh.png)
-*	Nvdia Omniverse: 다양한 프로그램과의 호환성을 기반으로 가상공간에서 협업, 시뮬레이션. BMW와의 협업에서 실제 공장에 대한 digital twin을 제작하여 차량 디자인부터 기계와 노동자들의 움직임까지 시뮬레이션하여 30% 이상 효율화했음  
+*	Nvidia Omniverse: 다양한 프로그램과의 호환성을 기반으로 가상공간에서 협업, 시뮬레이션. BMW와의 협업에서 실제 공장에 대한 digital twin을 제작하여 차량 디자인부터 기계와 노동자들의 움직임까지 시뮬레이션하여 30% 이상 효율화했음  
 ![Nvidia Omniverse](/images/omniverse.png)
 *	Facebook Horizon Workplace: 페이스북이 준비중인 폭넓은 용도의 메타버스인 Horizon의 가상오피스 영역. 오큘러스를 착용하고 VR 세계 안에서 실제 자신의 컴퓨터 화면과 키보드를 볼 수 있다는 점
 “Sometimes you just have to get in the same room”  
