@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "크래프톤 웨이 by 이기문"
+title: "KRAFTON WAY by 이기문"
 date: 2021-08-10
 ---
 

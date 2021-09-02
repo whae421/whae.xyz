@@ -4,7 +4,7 @@ title: "The Metaverse"
 date: 2021-08-23
 ---
 
-The Metaverse: A refined version of my memos taken while studying on the subject
+The Metaverse: A refined version of memos taken while studying on the subject
 
 
 References to be updated when I make some time to figure out how to insert footnotes in markdown
