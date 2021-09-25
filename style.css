@@ -9,7 +9,7 @@ body {
     background-attachment: fixed;
     max-width: 100%;
     overflow-x: hidden;
-    padding-top: 100px;
+
 }
 
 .middle {
@@ -77,14 +77,15 @@ body>.middle>.links>a:hover {
 }
 
 .topnav {
-    display: block;
     width: 100%;
     text-align: center;
     position: fixed;
-    top: 42px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #F2F2F2;
+    z-index:1;
 }
 
 .topnav a {
@@ -100,9 +101,8 @@ body>.middle>.links>a:hover {
 
 .topnav a:hover {
     color: #F14E56;
-    font-weight: 550;
 }
-  
+
 .footer{
     display: block;
     position: fixed;
@@ -126,6 +126,8 @@ body>.middle>.links>a:hover {
 }
 
 .about, .coding, .design {
+    padding-left: 15px;
+    padding-right: 15px;
     float:left;
     position: relative;
     left:-50%;
