@@ -151,6 +151,10 @@ body>.middle>.links>a:hover {
         font-size: 23px;
     }
 
+    .about, .coding, .design {
+        font-size: 15px;
+    }
+
     .logo img {
         width: 85px
     }
