@@ -9,7 +9,7 @@ body {
     background-attachment: fixed;
     max-width: 100%;
     overflow-x: hidden;
-
+    padding-top: 25px;
 }
 
 .middle {
@@ -118,7 +118,7 @@ body>.middle>.links>a:hover {
 }
 
 .wrap {
-    margin-top: 10px;
+    margin-top: 42px;
     float:left;
     position: relative;
     left:50%;
