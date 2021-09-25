@@ -9,7 +9,7 @@ body {
     background-attachment: fixed;
     max-width: 100%;
     overflow-x: hidden;
-    padding-top: 25px;
+    padding-top: 30px;
 }
 
 .middle {
@@ -118,7 +118,7 @@ body>.middle>.links>a:hover {
 }
 
 .wrap {
-    margin-top: 42px;
+    margin-top: 100px;
     float:left;
     position: relative;
     left:50%;
@@ -144,6 +144,11 @@ body>.middle>.links>a:hover {
 
 @media only screen and (max-width: 768px) {
     body { padding-top: 80px; }
+
+    .wrap {
+        margin-top: 80px;
+    }
+
     .logo img {
         width: 85px
     }
