@@ -104,7 +104,6 @@ body>.middle>.links>a:hover {
 }
 
 .footer{
-    display: block;
     position: fixed;
     left: 0;
     bottom: 0;
@@ -146,7 +145,10 @@ body>.middle>.links>a:hover {
     body { padding-top: 80px; }
 
     .wrap {
-        margin-top: 80px;
+        margin-top: 50px;
+    }
+    .about>h1 {
+        font-size: 23px;
     }
 
     .logo img {
@@ -171,5 +173,7 @@ body>.middle>.links>a:hover {
     .footer{
         height: 36px;
         font-size: 13px;
+        color: #F2F2F2;
+        z-index: -1;
     }
   }
